@@ -1,4 +1,4 @@
-setwd("/Users/samadhithjayasena/Downloads/PS_Lab_6")
+setwd("/Users/Asirindu/Downloads/PS_Lab_6")
 
 # Exercise 1
 n <- 50
