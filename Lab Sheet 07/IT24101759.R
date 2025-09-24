@@ -1,4 +1,4 @@
-setwd("C:\\Users\\ASUS\\Desktop\\IT24101658")
+setwd("C:\\Users\\ASUS\\Desktop\\IT24101759")
 
 
 #part 01
@@ -13,3 +13,4 @@ pexp(2,rate = 0.33,lower.tail = TRUE)
 
 #2.
 qnorm(0.95,mean = 100,sd =15,lower.tail = TRUE)
+
